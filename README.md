@@ -1,5 +1,5 @@
 Jeremy Giventer-Braff
 jgb4
 UChicago CS Git Tutorial
-Git is pretty cool...
+Git is pretty cool!
 
